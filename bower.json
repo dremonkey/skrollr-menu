@@ -1,0 +1,6 @@
+{
+  "name": "skrollr-menu",
+  "homepage": "https://github.com/Prinzhorn/skrollr-menu",
+  "version": "0.1.10",
+  "main": "dist/skrollr.menu.min.js"
+}
